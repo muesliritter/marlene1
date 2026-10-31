@@ -1,0 +1,30 @@
+{
+  "id": "auszeit",
+  "name": "Café Auszeit",
+  "quarter": "Innenstadt",
+  "rating": 4.4,
+  "address": "Moltkestrasse 16",
+  "url": "https://www.cafeauszeit.com/",
+  "categories": [
+    "cafes",
+    "restaurants"
+  ],
+  "en": {
+    "food": "Pretty good pastries, healthy salads and daily specials",
+    "specialty": "Amazing fresh juice",
+    "style": "Artsy and modern",
+    "inside": "Cramped, with small tables and bar stools",
+    "outside": "Near the theatre, a little louder, but one of the best outdoor coffee spots in the centre"
+  },
+  "de": {
+    "food": "Gutes Gebäck, gesunde Salate und Tagesgerichte",
+    "specialty": "Fantastischer frischer Saft",
+    "style": "Künstlerisch und modern",
+    "inside": "Eng, mit kleinen Tischen und Barhockern",
+    "outside": "Am Stadttheater etwas lauter, aber einer der schönsten Kaffeeplätze draußen im Zentrum"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 10
+}

@@ -1,0 +1,1 @@
+{"name":"freiburg-for-marlene","private":true,"version":"1.0.0","type":"module","scripts":{"build":"node build.mjs","start":"node serve.mjs"},"engines":{"node":">=20"}}

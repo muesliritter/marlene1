@@ -1,0 +1,16 @@
+{
+  "id": "restaurants",
+  "name": "Restaurants & lunch",
+  "order": 3,
+  "published": true,
+  "show_in_navigation": true,
+  "icon": "♧",
+  "en": {
+    "title": "Restaurants & lunch",
+    "description": "To start: three cafés from the list serving pasta, salads or daily specials."
+  },
+  "de": {
+    "title": "Restaurants & Lunch",
+    "description": "Zum Start: drei Cafés aus der Liste mit Pasta, Salaten oder Tagesgerichten."
+  }
+}

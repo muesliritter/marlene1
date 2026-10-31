@@ -1,0 +1,29 @@
+{
+  "id": "scheinpflug",
+  "name": "Der Scheinpflug",
+  "quarter": "Wiehre",
+  "rating": 4.9,
+  "address": "Kirchstrasse 48",
+  "url": "https://scheinpflugeis.com/",
+  "categories": [
+    "cafes"
+  ],
+  "en": {
+    "food": "Excellent pastries and ice cream",
+    "specialty": "Best affogato in town",
+    "style": "Elegant, artsy and modern, yet cosy",
+    "inside": "Relaxed, if you find a quiet corner",
+    "outside": "By a church square and playground; popular with parents"
+  },
+  "de": {
+    "food": "Hervorragendes Gebäck und Eis",
+    "specialty": "Der beste Affogato der Stadt",
+    "style": "Elegant, künstlerisch und modern, dabei gemütlich",
+    "inside": "Entspannt, wenn du eine ruhige Ecke findest",
+    "outside": "Am Kirchplatz neben dem Spielplatz; beliebt bei Eltern"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 2
+}

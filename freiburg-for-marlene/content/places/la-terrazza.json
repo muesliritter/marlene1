@@ -1,0 +1,30 @@
+{
+  "id": "la-terrazza",
+  "name": "Café la Terrazza",
+  "quarter": "Altstadt",
+  "rating": 4.7,
+  "address": "La Terrazza ad arte Freiburg",
+  "url": "https://www.la-terrazza-freiburg.com/",
+  "categories": [
+    "cafes",
+    "restaurants"
+  ],
+  "en": {
+    "food": "Fantastic food",
+    "specialty": "Homemade Italian pastries, as at Da Gianni, and really good pasta",
+    "style": "Artsy, without going over the top",
+    "inside": "Inside the Museum of Modern Art, usually",
+    "outside": "Opposite Café Da Gianni, in an enclosed outdoor area"
+  },
+  "de": {
+    "food": "Fantastisches Essen",
+    "specialty": "Hausgemachtes italienisches Gebäck wie bei Da Gianni und richtig gute Pasta",
+    "style": "Künstlerisch, ohne überladen zu sein",
+    "inside": "In der Regel im Museum für Neue Kunst",
+    "outside": "Gegenüber von Café Da Gianni, in einem eingefassten Außenbereich"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 5
+}

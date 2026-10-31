@@ -1,0 +1,20 @@
+{
+  "id": "zeit-fuer-brot",
+  "name": "Zeit für Brot",
+  "quarter": "Altstadt",
+  "address": "Eisenstrasse 2",
+  "url": "https://zeitfuerbrot.com/en/bakeries",
+  "categories": [
+    "bakeries"
+  ],
+  "en": {
+    "specialty": "Great organic bread and pastries next to the Münster."
+  },
+  "de": {
+    "specialty": "Tolles Bio-Brot und Gebäck direkt beim Münster."
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 15
+}

@@ -1,0 +1,29 @@
+{
+  "id": "baechle",
+  "name": "Café bächle",
+  "quarter": "Friedrichring",
+  "rating": 4.8,
+  "address": "Baechle Specialty Coffee Friedrichring 38",
+  "url": "https://www.baechlefreiburg.de/",
+  "categories": [
+    "cafes"
+  ],
+  "en": {
+    "food": "Haven’t tried the food yet, but it looks really good",
+    "specialty": "The coffee; it turns into a wine bar at night",
+    "style": "Elegant, modern and clean",
+    "inside": "Quiet; next door, Die Friedrich is a lovely tiny coworking space for an all-day laptop session",
+    "outside": "Just a few seats by the Bächle; it can be a little loud because of the busy road nearby."
+  },
+  "de": {
+    "food": "Noch nicht probiert, sieht aber richtig gut aus",
+    "specialty": "Der Kaffee; abends wird es zur Weinbar",
+    "style": "Elegant, modern und klar",
+    "inside": "Ruhig; nebenan liegt der kleine Coworking-Space Die Friedrich, für einen ganzen Tag am Laptop",
+    "outside": "Nur wenige Sitzplätze am Bächle; durch die große Straße in der Nähe kann es etwas laut sein."
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 8
+}

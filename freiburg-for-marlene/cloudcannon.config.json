@@ -1,0 +1,279 @@
+{
+  "source": "",
+  "paths": {
+    "static": "site",
+    "uploads": "site/assets/uploads"
+  },
+  "collections_config": {
+    "places": {
+      "path": "content/places",
+      "name": "Orte / Places",
+      "glob": [
+        "**/*.json"
+      ],
+      "include_developer_files": true,
+      "_enabled_editors": [
+        "data"
+      ],
+      "create": {
+        "path": "[relative_base_path]/{id}.json"
+      },
+      "schemas": {
+        "place": {
+          "path": "schemas/place.json",
+          "name": "Orte / Places",
+          "remove_extra_inputs": false
+        }
+      },
+      "preview": {
+        "text": [
+          "name"
+        ]
+      }
+    },
+    "categories": {
+      "path": "content/categories",
+      "name": "Kategorien / Categories",
+      "glob": [
+        "**/*.json"
+      ],
+      "include_developer_files": true,
+      "_enabled_editors": [
+        "data"
+      ],
+      "create": {
+        "path": "[relative_base_path]/{id}.json"
+      },
+      "schemas": {
+        "category": {
+          "path": "schemas/category.json",
+          "name": "Kategorien / Categories",
+          "remove_extra_inputs": false
+        }
+      },
+      "preview": {
+        "text": [
+          "name"
+        ]
+      }
+    },
+    "pages": {
+      "path": "content/pages",
+      "name": "Seiten / Pages",
+      "glob": [
+        "**/*.json"
+      ],
+      "include_developer_files": true,
+      "_enabled_editors": [
+        "data"
+      ],
+      "create": {
+        "path": "[relative_base_path]/{id}.json"
+      },
+      "schemas": {
+        "page": {
+          "path": "schemas/page.json",
+          "name": "Seiten / Pages",
+          "remove_extra_inputs": false
+        }
+      },
+      "preview": {
+        "text": [
+          "name"
+        ]
+      }
+    },
+    "settings": {
+      "path": "content",
+      "name": "Einstellungen / Settings",
+      "glob": [
+        "settings.json"
+      ],
+      "include_developer_files": true,
+      "disable_add": true,
+      "disable_add_folder": true,
+      "disable_file_actions": true,
+      "_enabled_editors": [
+        "data"
+      ]
+    }
+  },
+  "_inputs": {
+    "id": {
+      "type": "text",
+      "label": "URL-Kürzel / Slug",
+      "comment": "Einmalig vergeben, z. B. parks-and-gardens. Spätere Änderung ändert Links.",
+      "options": {
+        "required": true,
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+      }
+    },
+    "name": {
+      "type": "text",
+      "label": "Name"
+    },
+    "order": {
+      "type": "number",
+      "label": "Reihenfolge / Order"
+    },
+    "published": {
+      "type": "switch",
+      "label": "Veröffentlicht / Published"
+    },
+    "show_in_navigation": {
+      "type": "switch",
+      "label": "In Navigation anzeigen"
+    },
+    "en": {
+      "type": "object",
+      "label": "English"
+    },
+    "de": {
+      "type": "object",
+      "label": "Deutsch"
+    },
+    "categories": {
+      "type": "multiselect",
+      "label": "Kategorien",
+      "options": {
+        "values": "collections.categories",
+        "value_key": "id"
+      }
+    },
+    "photos": {
+      "type": "array",
+      "label": "Bildergalerie",
+      "options": {
+        "structures": "_structures.photo",
+        "max_items": 5
+      }
+    },
+    "sections": {
+      "type": "array",
+      "label": "Seitenabschnitte",
+      "options": {
+        "structures": "_structures.section"
+      }
+    },
+    "rating": {
+      "type": "number",
+      "label": "Persönliche Kaffeewertung / 5",
+      "comment": "Leer lassen, wenn keine Bewertung vorliegt.",
+      "options": {
+        "min": 0,
+        "max": 5,
+        "step": 0.1
+      }
+    },
+    "url": {
+      "type": "url",
+      "label": "Website / Instagram"
+    },
+    "image": {
+      "type": "image",
+      "label": "Bild"
+    },
+    "source": {
+      "type": "url",
+      "label": "Bildquelle"
+    },
+    "kind": {
+      "type": "select",
+      "label": "Bildmotiv",
+      "options": {
+        "values": [
+          "exterior",
+          "interior",
+          "food",
+          "coffee",
+          "detail"
+        ]
+      }
+    },
+    "googleMapsBrowserKey": {
+      "type": "text",
+      "comment": "Optional. Nur einen auf Website-Domains eingeschränkten Browser-Key verwenden."
+    },
+    "placeId": {
+      "type": "text",
+      "label": "Google Place ID (optional)"
+    },
+    "authors": {
+      "type": "array",
+      "label": "Bildnachweise",
+      "options": {
+        "structures": "_structures.author"
+      }
+    },
+    "specialty": {
+      "type": "textarea"
+    },
+    "food": {
+      "type": "textarea"
+    },
+    "style": {
+      "type": "textarea"
+    },
+    "inside": {
+      "type": "textarea"
+    },
+    "outside": {
+      "type": "textarea"
+    },
+    "description": {
+      "type": "textarea"
+    },
+    "intro": {
+      "type": "textarea"
+    },
+    "body": {
+      "type": "textarea"
+    }
+  },
+  "_structures": {
+    "photo": {
+      "values": [
+        {
+          "label": "Foto",
+          "value": {
+            "url": "",
+            "alt": "",
+            "kind": "detail",
+            "source": "",
+            "authors": []
+          },
+          "_inputs": {
+            "url": {
+              "type": "image",
+              "label": "Foto hochladen / auswählen"
+            }
+          }
+        }
+      ]
+    },
+    "author": {
+      "values": [
+        {
+          "label": "Bildnachweis",
+          "value": {
+            "name": "",
+            "url": ""
+          }
+        }
+      ]
+    },
+    "section": {
+      "values": [
+        {
+          "label": "Text und optionales Bild",
+          "value": {
+            "heading": "",
+            "body": "",
+            "image": "",
+            "image_alt": ""
+          }
+        }
+      ]
+    }
+  }
+}

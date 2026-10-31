@@ -1,0 +1,17 @@
+{
+  "id": "new-page",
+  "name": "New page",
+  "order": 100,
+  "published": false,
+  "show_in_navigation": true,
+  "en": {
+    "title": "New page",
+    "intro": "",
+    "sections": []
+  },
+  "de": {
+    "title": "Neue Seite",
+    "intro": "",
+    "sections": []
+  }
+}

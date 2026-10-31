@@ -1,0 +1,29 @@
+{
+  "id": "foerster-max",
+  "name": "Förster Max",
+  "quarter": "Wiehre",
+  "rating": 4.7,
+  "address": "Dreikoenigstrasse 46",
+  "url": "https://www.foerstermax.de/",
+  "categories": [
+    "cafes"
+  ],
+  "en": {
+    "food": "Exquisite Pastries and Ice Cream",
+    "specialty": "Best Ice Cream in Town",
+    "style": "Retro & Chique",
+    "inside": "Relaxed, if you can find a quiet corner",
+    "outside": "Lots of tables; a lovely terrace on a quiet street corner"
+  },
+  "de": {
+    "food": "Exquisites Gebäck und Eis",
+    "specialty": "Das beste Eis der Stadt",
+    "style": "Retro & schick",
+    "inside": "Entspannt, wenn du eine ruhige Ecke findest",
+    "outside": "Viele Tische und eine schöne Terrasse an einer ruhigen Straßenecke"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 1
+}

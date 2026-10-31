@@ -1,0 +1,29 @@
+{
+  "id": "jc",
+  "name": "JC Café",
+  "quarter": "Stühlinger",
+  "rating": 4.4,
+  "address": "Klarastrasse 70",
+  "url": "https://www.instagram.com/_.jccafe/",
+  "categories": [
+    "cafes"
+  ],
+  "en": {
+    "food": "Good cakes",
+    "specialty": "The atmosphere",
+    "style": "Retro",
+    "inside": "Cosy and laid-back",
+    "outside": "Quiet street close to the central station"
+  },
+  "de": {
+    "food": "Gute Kuchen",
+    "specialty": "Die Atmosphäre",
+    "style": "Retro",
+    "inside": "Gemütlich und entspannt",
+    "outside": "Ruhige Straße nahe dem Hauptbahnhof"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 13
+}

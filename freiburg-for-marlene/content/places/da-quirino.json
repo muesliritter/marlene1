@@ -1,0 +1,20 @@
+{
+  "id": "da-quirino",
+  "name": "Da Quirino",
+  "quarter": "Stühlinger",
+  "address": "Da Quirino Backstueble Guntramstrasse 43",
+  "url": "https://www.instagram.com/backstuble/",
+  "categories": [
+    "bakeries"
+  ],
+  "en": {
+    "specialty": "An Italian bakery for focaccia and cantuccini."
+  },
+  "de": {
+    "specialty": "Italienische Bäckerei für Focaccia und Cantuccini."
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 16
+}

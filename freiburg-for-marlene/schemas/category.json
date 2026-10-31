@@ -1,0 +1,16 @@
+{
+  "id": "new-category",
+  "name": "New category",
+  "order": 100,
+  "published": false,
+  "show_in_navigation": true,
+  "icon": "✳",
+  "en": {
+    "title": "New category",
+    "description": ""
+  },
+  "de": {
+    "title": "Neue Kategorie",
+    "description": ""
+  }
+}

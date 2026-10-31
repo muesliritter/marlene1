@@ -1,0 +1,29 @@
+{
+  "id": "kolben",
+  "name": "Café Kolben",
+  "quarter": "Altstadt",
+  "rating": 4.8,
+  "address": "Kolben Kaffee Kaiser Joseph Strasse 233",
+  "url": "https://www.kolbenkaffee-freiburg.de/",
+  "categories": [
+    "cafes"
+  ],
+  "en": {
+    "food": "Excellent pastries",
+    "specialty": "Try the pear puff pastry slices — perhaps my favourite pastry",
+    "style": "Elegant, classic coffee house",
+    "inside": "Usually busy and loud; finding a table can be tricky",
+    "outside": "Alley beside Martinstor; sometimes loud, but still one of the better spots there"
+  },
+  "de": {
+    "food": "Hervorragendes Gebäck",
+    "specialty": "Unbedingt die Birnen-Blätterteigschnitte probieren – vielleicht mein Lieblingsgebäck",
+    "style": "Elegantes, klassisches Kaffeehaus",
+    "inside": "Meist voll und laut, einen Tisch zu finden ist schwierig",
+    "outside": "Gasse am Martinstor; teilweise laut, aber dort trotzdem einer der besseren Plätze"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 12
+}

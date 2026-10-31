@@ -1,0 +1,20 @@
+{
+  "id": "brotbruder",
+  "name": "Brotbruder",
+  "quarter": "Wiehre",
+  "address": "Zasiusstrasse 9",
+  "url": "https://www.instagram.com/brotbruder_fr/",
+  "categories": [
+    "bakeries"
+  ],
+  "en": {
+    "specialty": "The hands-down best bread in town. Amazing sweet pastries, too."
+  },
+  "de": {
+    "specialty": "Mit Abstand das beste Brot der Stadt. Auch das süße Gebäck ist großartig."
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 14
+}

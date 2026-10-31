@@ -1,0 +1,29 @@
+{
+  "id": "sedan",
+  "name": "Sedan Café",
+  "quarter": "Innenstadt",
+  "rating": 4.4,
+  "address": "Sedanstrasse 9",
+  "url": "https://www.instagram.com/sedancafe/",
+  "categories": [
+    "cafes"
+  ],
+  "en": {
+    "food": "A really good selection from local bakeries",
+    "specialty": "Stefans cheesecake",
+    "style": "Retro and hip",
+    "inside": "A little loud at the front, cosy at the back",
+    "outside": "Not too loud, but close to the station"
+  },
+  "de": {
+    "food": "Richtig gute Auswahl aus lokalen Bäckereien",
+    "specialty": "Stefans Käsekuchen",
+    "style": "Retro und hip",
+    "inside": "Vorne etwas laut, hinten recht gemütlich",
+    "outside": "Nicht übermäßig laut, aber nahe am Bahnhof"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 9
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tibet-garten",
+  "name": "Tibet Garten Café",
+  "quarter": "Altstadt",
+  "rating": 4.0,
+  "address": "Tibet Kailash Gartencafe Wallstrasse 8",
+  "url": "https://www.tibet-kailash-haus.de/",
+  "categories": [
+    "cafes"
+  ],
+  "en": {
+    "food": "Pretty good cakes",
+    "specialty": "The garden",
+    "style": "Buddhist",
+    "inside": "Meditation only; no coffee indoors",
+    "outside": "A beautiful garden"
+  },
+  "de": {
+    "food": "Ziemlich gute Kuchen",
+    "specialty": "Der Garten",
+    "style": "Buddhistisch",
+    "inside": "Drinnen wird meditiert, kein Kaffee ausgeschenkt",
+    "outside": "Ein wunderschöner Garten"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 3
+}

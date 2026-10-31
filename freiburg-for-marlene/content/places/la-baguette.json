@@ -1,0 +1,20 @@
+{
+  "id": "la-baguette",
+  "name": "La Baguette",
+  "quarter": "Stühlinger",
+  "address": "Eschholzstrasse 36",
+  "url": "https://boulangerie-labaguette.de/",
+  "categories": [
+    "bakeries"
+  ],
+  "en": {
+    "specialty": "The croissants filled with apricot and topped with almonds."
+  },
+  "de": {
+    "specialty": "Die Croissants mit Aprikosenfüllung und Mandeln obendrauf."
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 17
+}

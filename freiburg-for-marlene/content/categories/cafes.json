@@ -1,0 +1,16 @@
+{
+  "id": "cafes",
+  "name": "Cafés & coffee",
+  "order": 1,
+  "published": true,
+  "show_in_navigation": true,
+  "icon": "☕",
+  "en": {
+    "title": "Cafés & coffee",
+    "description": "Honest recommendations. Little details. And time to enjoy them."
+  },
+  "de": {
+    "title": "Cafés & Kaffee",
+    "description": "Ehrliche Empfehlungen. Kleine Besonderheiten. Und Zeit zum Genießen."
+  }
+}

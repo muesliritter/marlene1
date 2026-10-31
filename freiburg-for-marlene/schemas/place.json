@@ -1,0 +1,27 @@
+{
+  "id": "new-place",
+  "name": "New place",
+  "quarter": "",
+  "address": "",
+  "url": "",
+  "categories": [],
+  "rating": null,
+  "order": 100,
+  "published": false,
+  "en": {
+    "specialty": "",
+    "food": "",
+    "style": "",
+    "inside": "",
+    "outside": ""
+  },
+  "de": {
+    "specialty": "",
+    "food": "",
+    "style": "",
+    "inside": "",
+    "outside": ""
+  },
+  "placeId": "",
+  "photos": []
+}

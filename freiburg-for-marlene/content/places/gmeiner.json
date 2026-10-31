@@ -1,0 +1,20 @@
+{
+  "id": "gmeiner",
+  "name": "Confiserie Gmeiner",
+  "quarter": "Altstadt",
+  "address": "Kaiser Joseph Strasse 243",
+  "url": "https://www.confiserie-gmeiner.com/en/stores/freiburg",
+  "categories": [
+    "bakeries"
+  ],
+  "en": {
+    "specialty": "Fancy pralines, cakes and tarts next to Martinstor."
+  },
+  "de": {
+    "specialty": "Feine Pralinen, Kuchen und Torten direkt am Martinstor."
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 19
+}

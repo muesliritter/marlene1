@@ -1,0 +1,29 @@
+{
+  "id": "moltke",
+  "name": "Café Moltke",
+  "quarter": "Im Grün",
+  "rating": 4.8,
+  "address": "Moltkestrasse 42",
+  "url": "https://www.instagram.com/cafe_moltke/",
+  "categories": [
+    "cafes"
+  ],
+  "en": {
+    "food": "Really good pastries",
+    "specialty": "The coffee",
+    "style": "Warm and hip",
+    "inside": "Tiny and cosy",
+    "outside": "Quiet corner with few cars; one of the best outdoor coffee spots in the centre"
+  },
+  "de": {
+    "food": "Richtig gutes Gebäck",
+    "specialty": "Der Kaffee",
+    "style": "Warm und hip",
+    "inside": "Winzig und gemütlich",
+    "outside": "Ruhige Ecke mit wenig Verkehr; einer der schönsten Kaffeeplätze draußen im Zentrum"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 7
+}

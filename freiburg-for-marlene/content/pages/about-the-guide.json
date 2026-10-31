@@ -1,0 +1,43 @@
+{
+  "id": "about-the-guide",
+  "name": "About the guide",
+  "order": 1,
+  "published": true,
+  "show_in_navigation": false,
+  "en": {
+    "title": "A little guide, just for Marlene.",
+    "intro": "Favourite places, honest notes and time to enjoy Freiburg.",
+    "sections": [
+      {
+        "heading": "A personal collection",
+        "body": "This guide brings together personal recommendations for coffee, pastries and lunch in Freiburg. Coffee scores are personal impressions, not Google ratings.",
+        "image": "",
+        "image_alt": ""
+      },
+      {
+        "heading": "Room for more discoveries",
+        "body": "New places and categories will join the collection over time. Save your favourites using the heart next to each place. Your saved list stays in this browser.",
+        "image": "",
+        "image_alt": ""
+      }
+    ]
+  },
+  "de": {
+    "title": "Ein kleiner Guide, nur für Marlene.",
+    "intro": "Lieblingsorte, ehrliche Notizen und Zeit für Freiburg.",
+    "sections": [
+      {
+        "heading": "Eine persönliche Sammlung",
+        "body": "Dieser Guide sammelt persönliche Empfehlungen für Kaffee, Gebäck und Mittagessen in Freiburg. Die Kaffeewertungen sind persönliche Eindrücke, keine Google-Bewertungen.",
+        "image": "",
+        "image_alt": ""
+      },
+      {
+        "heading": "Platz für weitere Entdeckungen",
+        "body": "Mit der Zeit kommen weitere Orte und Kategorien hinzu. Mit dem Herz neben einem Ort kannst du ihn merken. Die Merkliste bleibt in diesem Browser gespeichert.",
+        "image": "",
+        "image_alt": ""
+      }
+    ]
+  }
+}

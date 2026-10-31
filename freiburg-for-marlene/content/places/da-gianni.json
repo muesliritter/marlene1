@@ -1,0 +1,29 @@
+{
+  "id": "da-gianni",
+  "name": "Café Da Gianni",
+  "quarter": "Altstadt",
+  "rating": 4.7,
+  "address": "Marienstrasse 13",
+  "url": "https://caffe-da-gianni.de/",
+  "categories": [
+    "cafes"
+  ],
+  "en": {
+    "food": "Fantastic Italian pastries",
+    "specialty": "Everything is Italian",
+    "style": "Well balanced and understated",
+    "inside": "Cosy, but very small",
+    "outside": "A quiet corner by a museum in the old town, with almost no cars"
+  },
+  "de": {
+    "food": "Fantastisches italienisches Gebäck",
+    "specialty": "Alles ist italienisch",
+    "style": "Stimmig und angenehm zurückhaltend",
+    "inside": "Gemütlich, aber sehr klein",
+    "outside": "Ruhige Ecke neben einem Museum in der Altstadt, fast ohne Autos"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 4
+}

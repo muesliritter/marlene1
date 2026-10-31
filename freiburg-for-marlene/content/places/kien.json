@@ -1,0 +1,30 @@
+{
+  "id": "kien",
+  "name": "Café KIEN",
+  "quarter": "Altstadt",
+  "rating": 4.7,
+  "address": "Augustinerplatz 3",
+  "url": "https://www.kienfreiburg.de/",
+  "categories": [
+    "cafes",
+    "restaurants"
+  ],
+  "en": {
+    "food": "Great pastries and fantastic daily specials",
+    "specialty": "Julias carrot cake",
+    "style": "Modern café meets an old monastery building",
+    "inside": "Inside the Augustinermuseum; noise depends on where you sit",
+    "outside": "A lovely terrace beside Augustinerplatz"
+  },
+  "de": {
+    "food": "Tolles Gebäck und fantastische Tagesgerichte",
+    "specialty": "Julias Karottenkuchen",
+    "style": "Schöner Kontrast: modernes Café im alten Klostergebäude",
+    "inside": "Im Augustinermuseum; je nach Sitzplatz kann es laut werden",
+    "outside": "Sehr schöne Terrasse am Augustinerplatz"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 11
+}

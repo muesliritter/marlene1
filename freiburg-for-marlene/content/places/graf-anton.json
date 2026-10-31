@@ -1,0 +1,20 @@
+{
+  "id": "graf-anton",
+  "name": "Café Confiserie Graf Anton",
+  "quarter": "Altstadt / Innenstadt",
+  "address": "Rotteckring 16",
+  "url": "https://www.colombi.de/en/dining",
+  "categories": [
+    "bakeries"
+  ],
+  "en": {
+    "specialty": "A five-star hotel’s bakery with incredible cakes; not my kind of place for coffee."
+  },
+  "de": {
+    "specialty": "Die Bäckerei eines Fünf-Sterne-Hotels mit unglaublichen Kuchen; zum Kaffeetrinken nicht so mein Fall."
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 18
+}

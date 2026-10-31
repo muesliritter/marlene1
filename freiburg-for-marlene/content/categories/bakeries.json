@@ -1,0 +1,16 @@
+{
+  "id": "bakeries",
+  "name": "Bakeries",
+  "order": 2,
+  "published": true,
+  "show_in_navigation": true,
+  "icon": "◒",
+  "en": {
+    "title": "Bakeries",
+    "description": "Honest recommendations. Little details. And time to enjoy them."
+  },
+  "de": {
+    "title": "Bäckereien",
+    "description": "Ehrliche Empfehlungen. Kleine Besonderheiten. Und Zeit zum Genießen."
+  }
+}

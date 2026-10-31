@@ -1,0 +1,29 @@
+{
+  "id": "la-parisienne",
+  "name": "La Parisienne",
+  "quarter": "Altstadt",
+  "rating": 4.5,
+  "address": "La Parisienne Macaronnerie Salzstrasse 51",
+  "url": "https://www.macaronnerie.com/en",
+  "categories": [
+    "cafes"
+  ],
+  "en": {
+    "food": "Amazing food",
+    "specialty": "Best croissants and macarons in town",
+    "style": "French bistro",
+    "inside": "A little cramped",
+    "outside": "Quite loud, but lovely for a coffee and watching the old town bustle"
+  },
+  "de": {
+    "food": "Großartiges Essen",
+    "specialty": "Die besten Croissants und Macarons der Stadt",
+    "style": "Französisches Bistro",
+    "inside": "Ein bisschen eng",
+    "outside": "Recht laut, aber schön für einen Kaffee und zum Beobachten des Altstadttrubels"
+  },
+  "placeId": "",
+  "photos": [],
+  "published": true,
+  "order": 6
+}

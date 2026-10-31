@@ -1,0 +1,12 @@
+paths:
+  static: ''
+  uploads: uploads
+timezone: Europe/Berlin
+markdown:
+  engine: commonmark
+  options: {}
+source: /freiburg-for-marlene/
+collections_config:
+  content:
+    path: content
+    icon: wysiwyg
